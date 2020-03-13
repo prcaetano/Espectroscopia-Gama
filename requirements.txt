@@ -268,7 +268,7 @@ python-dateutil==2.6.0
 python-debian==0.1.27
 python-distutils-extra==2.38
 python-editor==1.0.3
-python-gnupg==0.3.7
+python-gnupg==0.4.4
 python-graph-core==1.8.2
 python-graph-dot==1.8.2
 python-Levenshtein==0.12.0
