@@ -54,7 +54,7 @@ corner==2.0.1
 cov-core==1.15.0
 coverage==4.3.4
 crayons==0.1.1
-cryptography==1.7.1
+cryptography==3.2
 csb==1.2.3
 cssutils==0.9.10
 CVXcanon==0.1.1
