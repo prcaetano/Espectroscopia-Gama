@@ -148,7 +148,7 @@ linop==0.8.2
 llvmlite==0.7.0
 locket==0.2.0
 Logbook==1.0.0
-lxml==3.7.2
+lxml==4.6.2
 Mako==1.0.6
 MarkupSafe==0.23
 matplotlib==2.0.0
