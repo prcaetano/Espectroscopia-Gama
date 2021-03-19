@@ -128,7 +128,7 @@ isochrones==1.0
 isodate==0.5.4
 itsdangerous==0.24
 jedi==0.10.2
-Jinja2==2.9.4
+Jinja2==2.11.3
 joblib==0.10.3
 jsmin==2.0.9
 jsonpatch==1.3
