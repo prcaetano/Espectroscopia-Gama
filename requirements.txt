@@ -295,7 +295,7 @@ requirements-parser==0.1.0
 roman==2.0.0
 Routes==2.2
 rpy2==2.8.5
-rsa==3.4.2
+rsa==4.1
 runipy==0.1.5
 scikit-image==0.10.1
 scikit-learn==0.18.1
