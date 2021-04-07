@@ -26,7 +26,7 @@ bleach==1.5.0
 blinker==1.3
 bokeh==0.12.4
 boto==2.45.0
-bottle==0.12.7
+bottle==0.12.19
 Bottleneck==1.2.0
 bpython==0.12
 bqplot==0.8.4
