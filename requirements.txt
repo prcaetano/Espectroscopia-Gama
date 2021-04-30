@@ -344,7 +344,7 @@ traits==4.6.0
 traittypes==0.0.6
 translationstring==1.1
 tweepy==3.5.0
-Twisted==15.5.0
+Twisted==20.3.0
 twitter==1.17.1
 typing==3.6.1
 ufw==0.34
