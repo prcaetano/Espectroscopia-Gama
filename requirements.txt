@@ -94,7 +94,7 @@ feedparser==5.1.3
 filterpy==0.0.28
 flake8==2.2.2
 Flask==0.12
-Flask-Cors==3.0.2
+Flask-Cors==3.0.9
 Flask-Principal==0.4.0
 Flask-Script==0.6.7
 Flask-SQLAlchemy==1.0
