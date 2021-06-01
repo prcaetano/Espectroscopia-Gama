@@ -352,7 +352,7 @@ unattended-upgrades==0.1
 uncertainties==3.0.1
 unittest2==1.1.0
 uritemplate==0.6
-urllib3==1.11
+urllib3==1.26.5
 venusian==1.0a8
 virtualenv==15.1.0
 virtualenv-clone==0.2.6
