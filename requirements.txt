@@ -63,7 +63,7 @@ cycler==0.10.0
 cyordereddict==1.0.0
 Cython==0.25.2
 cytoolz==0.8.2
-dask==0.13.0
+dask==2021.10.0
 datashape==0.5.2
 datasift==2.10.0
 decorator==4.0.11
