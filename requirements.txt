@@ -212,7 +212,7 @@ pep8==1.6.2
 persistent==4.1.1
 pexpect==4.2.1
 pickleshare==0.7.4
-Pillow==2.9.0
+Pillow==9.0.0
 pipenv==0.2.4
 plotly==1.12.12
 ply==3.7
